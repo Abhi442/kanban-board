@@ -1,0 +1,26 @@
+
+{
+    "list":[
+        {
+            "listId": 1,
+            "listName": "Business Requirement"
+          },
+          {
+            "listId": 2,
+            "listName": "Design"
+          },
+          {
+            "listId": 3,
+            "listName": "Development"
+          },
+          {
+            "listId": 4,
+            "listName": "Ready for Test"
+          },
+          {
+            "listId": 5,
+            "listName": "Test"
+          }
+    ]
+}
+
